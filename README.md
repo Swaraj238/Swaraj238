@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <h3 align="center">An enthusiastic software developer from Pune</h3>
 
-- 💬 Ask me about **python , web development , APIs**
+- 💬 Ask me about **python , web development ,DSA, Machine Learning, APIs**
 
 - 📫 How to reach me **malageswaraj@gmail.com**
 
